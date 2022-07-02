@@ -1,1 +1,1 @@
-# data-Structure-Notes
+# CodingNotes.github.io
